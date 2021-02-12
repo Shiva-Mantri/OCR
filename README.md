@@ -12,3 +12,14 @@
     
 ### OCR - Python - Reference
 - https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-python-10ecbb426c3d
+
+### Using Tesseract OCR
+
+## Image Pre-Processing
+- https://stackoverflow.com/a/50762612/780405
+  - https://medium.com/free-code-camp/getting-started-with-tesseract-part-i-2a6a6b1cf75e
+  - https://medium.com/free-code-camp/getting-started-with-tesseract-part-ii-f7f9a0899b3f
+- https://stackoverflow.com/a/46696775/780405
+  - Apply blur to the original image.
+  - Apply Adaptive Threshold.
+  - Apply Sharpening effect.
