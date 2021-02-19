@@ -1,3 +1,22 @@
+## OCR
+
+### Preprocessing
+Ref/Credit: https://docparser.com/blog/improve-ocr-accuracy/
+- Good original source image
+- Resize - Scale to 300DPI
+- Increase contrast
+- Binarization - Convert color to black and white
+- Remove background noise - So that image has just text. This includes removing scanning stains, lines and borders
+- Thresholding
+- Deskew/rotation
+
+### Extraction
+- Use OCR Engine to feed doc and extract text
+
+### Improvement
+- Use dictionary, spell checking to fix uncertain or missing characters/words
+
+
 ## USING TESSERACT OCR
 
 ### Image Pre-Processing
